@@ -165,5 +165,3 @@ torchrun --nproc_per_node=8 mmgpt/train/instruction_finetune.py \
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
 - [LLaVA](https://github.com/haotian-liu/LLaVA/tree/main)
 - [Instruction Tuning with GPT-4](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)
-- 
-```
